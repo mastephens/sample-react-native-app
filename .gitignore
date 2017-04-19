@@ -59,4 +59,4 @@ node_modules
 /third-party
 
 .expo
-yarn.lock.
+yarn.lock
